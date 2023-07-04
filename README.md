@@ -59,7 +59,7 @@ TVBox各路接口配置（排名不分先后）：
 
 （29）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
- (30) 湘雅情： https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json  
+（30）湘雅情： https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json  
 
 （31）其他：   https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json
 
