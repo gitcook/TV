@@ -57,9 +57,11 @@ TVBox各路接口配置（排名不分先后）：
 
 （28）多多：https://yydsys.top/duo
 
-（29） 南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（29）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-  (30)   湘雅情： https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json
+ (30) 湘雅情： https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json  
+
+（31）其他：   https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json
 
 
 
@@ -182,9 +184,7 @@ http://epg.51zmt.top:8000/e.xml
 https://epg.pw/xmltv.html?lang=zh-hant
 
 
-  
 
-（31）其他：   https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json
 
 
 
