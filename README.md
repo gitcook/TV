@@ -1,30 +1,67 @@
-# 影視
+影视仓、tvbox、欧歌宝盒、影视TV需要在设置页面配置接口后可正常观看
+TVBox各路接口配置（排名不分先后）：
 
-### 基於 CatVod 項目
+（1）唐三：https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json
 
-https://github.com/CatVodTVOfficial/CatVodTVJarLoader
+（2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
 
-### 點播欄位
-<pre><code>searchable：搜索    (0：關閉、1：啟用)  
-changeable：換源    (0：關閉、1：啟用)
-playerType：播放器  (1：IJK、2：EXO)</code></pre>
+（3）俊于：http://home.jundie.top:81/top98.json
 
-### 直播欄位
-<pre><code>ua：用戶代理
-referer：參照位址
-epg：節目網址
-logo：台標網址
-pass：是否免密碼
-boot：是否自動開啟
-playerType：播放器</code></pre>
+（4）饭太硬：http://饭太硬.top/tv
 
-### 配置範例
-[點播-線上](other/sample/vod/online.json)  
-[點播-本地](other/sample/vod/offline.json)  
-[直播-線上](other/sample/live/online.json)  
-[直播-本地](other/sample/live/offline.json)
+（5）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
-### 飛機群
-[討論群組](https://t.me/fongmi_offical)  
-[發布頻道](https://t.me/fongmi_release)
+（6）小雅dr：http://drpy.site/js1
+
+（7）菜妮丝：https://tvbox.cainisi.cf
+
+（8）小米：http://xhww.fun:63/小米/DEMO.json
+
+（9）巧技：http://pandown.pro/tvbox/tvbox.json
+
+（10）刚刚：http://刚刚.live/猫
+
+（11）吾爱有三：http://52bsj.vip:98/0805
+
+（12）潇洒：https://download.kstore.space/download/2863/01.txt
+
+（13）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+
+（14）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
+
+（15）云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
+
+（16）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
+（17）BOX：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+
+（18）哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
+
+（19）UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
+
+（20）木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt
+
+（21）Ray：https://dxawi.github.io/0/0.json
+
+（22）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+
+（23）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+
+（24）肥猫：http://我不是.肥猫.love:63
+
+（25）骚0： https://100km.top/0
+
+（26）高天流云：https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
+
+（27）运输车：https://weixine.net/ysc.json
+
+（28）多多：https://yydsys.top/duo
+
+（29） 南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
+  (30)   湘雅情： https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json
+
+（31）其他：   https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json
+
+
 
