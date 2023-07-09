@@ -1,4 +1,4 @@
-#### 多仓地址
+多仓地址
 应用多多
 https://jihulab.com/duomv/apps/-/raw/main/fast.json
 欧歌
@@ -8,7 +8,7 @@ htp:ljk..itvbox.cc:66/何视TV/云星日记/仓库/api.json
 吾爱多仓
 http://52bsj.vip:98/wuaihouse
 
-#### 单线路地址
+单线路地址
 应用多多家庭
 http://yydsys.top/duo
 应用多多备用
