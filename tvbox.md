@@ -78,8 +78,8 @@ http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
 吾爱线路
 http://52bsj.vip:98/wuai
 
-$云星日记
-htp://itvbox.cc/tvbox/云星日记/1.m3u8
+云星日记
+http://itvbox.cc/tvbox/云星日记/1.m3u8
 
 喵影视线路
 http://miaotvs.cn/meow
