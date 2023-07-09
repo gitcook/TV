@@ -2,9 +2,9 @@
 应用多多
 https://jihulab.com/duomv/apps/-/raw/main/fast.json
 欧歌
-http://tv.nxog.top/api.php?mz=xb&id=1&b=
+http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
 云星日记
-htp:ljk..itvbox.cc:66/何视TV/云星日记/仓库/api.json
+http://jk.itvbox.cc:66/可视TV/云星日记/仓库/api.json
 吾爱多仓
 http://52bsj.vip:98/wuaihouse
 
@@ -16,9 +16,9 @@ http://cdn.yydsys.top/duo
 阿里精品专线
 http://yydsys.top/duo/ali
 饭太硬线路
-http:/饭太硬.ml/tw
+http://饭太硬.top/tv
 肥猫线路
-http:l/我不是.肥猫.love:63/接口禁止贩卖
+http://我不是.肥猫.love:63/接口禁止贩卖
 唐三线路
 https://gh.t4tv.hz.cz/newtang.bmp
 蜂蜜线路
@@ -28,7 +28,7 @@ https://pastebin.com/raw/5NHaxyGR
 菜妮丝线路
 https://tvbox.cainisi.cf
 小米线路
-htp:/xhww.fun:63/小米/DEMO.json
+http://xhww.fun:63/小米/DEMO.json
 俊佬线路
 http://home.jundie.top:81/top98.json
 霜辉月明
@@ -58,9 +58,9 @@ htp://itvbox.cc/tvbox/云星日记/1.m3u8
 喵影视线路
 http://miaotvs.cn/meow
 源享家线路
-https:/源享家.ml/23424
+http://源享家.ml/23424
 星辰线路
-http:/8.210.232.168/xc.json
+http://8.210.232.168/xc.json
 分享者线路
 https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
 冰河线路
@@ -87,7 +87,6 @@ https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
 https://szyyds.cn/tv/x.json
 夜猫子（有跑马
 https://download.kstore.space/download/3313/mao/ymz
-灯)
 荷城茶秀
 https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json
 步高天流云
