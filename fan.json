@@ -1,13 +1,13 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;b2000d077779d52426bdb2a1a1e92941",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
             "key": "js豆豆",
             "name": "微信公众号【神秘的哥哥们】关注防失联",
             "type": 3,
-            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
-            "ext": "http://xn--sss604efuw.top/jm/js/drpy.js",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -36,7 +36,7 @@
             "key": "MV_vod",
             "name": "🎸明星┃MV",
             "type": 1,
-            "api": "https://mv.饭太硬.ml/mv/vod",
+            "api": "https://mv.wogg.link/mv/vod",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
@@ -89,15 +89,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_DiDuan",
-            "name": "⏮️低端┃直连",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "迪迪",
             "name": "😎迪迪┃App",
             "api": "csp_AppYsV2",
@@ -127,6 +118,23 @@
             "ext": "https://www.fantuan3.com"
         },
         {
+            "key": "csp_DiDuan",
+            "name": "⏮️低端┃直连",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "贱贱",
+            "name": "🐭贱贱┃p2p",
+            "type": 3,
+            "playerType": "1",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
+        },
+        {
             "key": "酷酷",
             "name": "💡酷酷┃App",
             "type": 3,
@@ -134,7 +142,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://ys.realdou.cn/api.php/app/",
+            "ext": "http://cms.realdou.cn/api.php/app/",
             "categories": [
                 "4K电影",
                 "4K电视剧"
@@ -144,6 +152,7 @@
             "key": "探探",
             "name": "🏵探探┃App",
             "type": 3,
+            "playerType": "1",
             "api": "csp_YT",
             "searchable": 1,
             "quickSearch": 1,
@@ -200,7 +209,7 @@
         },
         {
             "key": "csp_Lib",
-            "name": "🌟利奥┃直连",
+            "name": "🌟利播┃直连",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -383,7 +392,7 @@
             "key": "88js",
             "name": "⚽ 88┃看球",
             "type": 3,
-            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -433,7 +442,7 @@
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
             "type": 3,
-            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -443,11 +452,11 @@
             "key": "csp_XYQBiu_斗鱼",
             "name": "🐟斗鱼┃直播",
             "type": 3,
-            "api": "csp_XYQBiu",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://饭太硬.top/x/XYQ/斗鱼直播.json"
+            "changeable": 0
         },
         {
             "key": "csp_XBPQ_聚短视频",
@@ -463,7 +472,7 @@
             "key": "有声小说js",
             "name": "🎧有声┃小说",
             "type": 3,
-            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -560,7 +569,7 @@
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "http://xn--sss604efuw.top/jm/js/drpy1.min.js",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
             "searchable": 0,
             "quickSearch": 0,
